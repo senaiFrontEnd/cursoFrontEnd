@@ -3,7 +3,7 @@
 ## :pushpin: Início
 
 <p align="center">
-      <img src="/Imagens_Geral/ezgif.com-gif-maker.gif" width="200" height="200">
+      <img src="/Imagens_Geral/Colocar a imagem aqui em formato png" width="200" height="200">
 <p align="center">
 
 <hr>
@@ -123,7 +123,7 @@
 <br>
 
 <p align="center">
-      <img src="/Imagens_Geral/Backlog.jpg" >
+      <img src="/Imagens_Geral/Colocar a imagem aqui em formato jpg" >
 <p align="center">
 
 <a href ="#pushpin-início">Voltar ao início</a>  

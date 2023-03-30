@@ -47,8 +47,8 @@
       
 |Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
 | -------- |-------- |-------- |-------- |-------- | -------- |
-|**-**|Ambientação|20|4|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**-**|Aula inaugural|3|1|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**-**|Ambientação| 20|4|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**-**|Aula inaugural| 3|1|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 |**Básico**|Fundamentos da tecnologia da informação e comunicação|20|5|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 |**Introdutório**|Metodologias ágeis|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 |**Básico**|Fundamentos da qualidade e produtividade|8|2|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|

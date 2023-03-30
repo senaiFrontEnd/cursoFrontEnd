@@ -90,9 +90,8 @@
 
 ## :camera_flash: As Versões Finais dos Projetos
 
-☑️ 1 ENTREGA: [https://squad562.github.io/siteprimeiraentrega/](https://squad562.github.io/siteprimeiraentrega/) :heavy_check_mark:
+☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui) :heavy_check_mark:
 
-☑️ 2 ENTREGA: [https://squad561.github.io/sitesegundaentrega/](https://squad561.github.io/sitesegundaentrega/)  :heavy_check_mark:
 
 <br> 
 

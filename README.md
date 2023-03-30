@@ -68,23 +68,23 @@
 
 ☑️ SPRINT 2 ([Link da Pasta](https://github.com/senaiFrontEnd/metodologias-ageis)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 3 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-qualidade-e-produtividade)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 4 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 4 ([Link da Pasta](https://github.com/senaiFrontEnd/Versionamento)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 5 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 5 ([Link da Pasta](https://github.com/senaiFrontEnd/Saude-e-seguranca-no-trabalho)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 6 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 6 ([Link da Pasta](https://github.com/senaiFrontEnd/Logica-de-programacao)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 7 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 7 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-industria-4.0)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 8 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 8 ([Link da Pasta](https://github.com/senaiFrontEnd/Sustentabilidade-nos-processos-industriais)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 9 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 9 ([Link da Pasta](https://github.com/senaiFrontEnd/Codificacao-para-Front-End)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 10 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 10 ([Link da Pasta](https://github.com/senaiFrontEnd/Interacao-com-API-s)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 11 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 11 ([Link da Pasta](https://github.com/senaiFrontEnd/Testes-de-Front-End)): Concluído :heavy_check_mark:
 
 <br> 
 

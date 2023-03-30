@@ -121,8 +121,8 @@
 
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|**Renato Wessner**|Líder| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 <br>
 
-<h1 align="center"> <img src = "Imagens_Geral/recode.png" height="90" /></h1>    
+<h1 align="center"> <img src = "Imagens_Geral/Colocar a imagem aqui em formato png" height="90" /></h1>    
  

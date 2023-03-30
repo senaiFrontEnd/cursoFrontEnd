@@ -9,8 +9,8 @@
 <p align="center">
   <a href ="#rocket-o-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
-  <a href ="#hourglass_flowing_sand-planejamento-de-entregas">Planejamento</a>  •
-  <a href ="#calendar-os-sprints">Sprints</a>  •
+  <a href ="#hourglass_flowing_sand-planejamento-de-aulas">Planejamento</a>  •
+  <a href ="#calendar-os-sprints">Entregas</a>  •
   <a href ="#camera_flash-as-versões">Versões do site</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
@@ -40,10 +40,8 @@
 * **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
 
 <br> 
-
-
       
-## :hourglass_flowing_sand: Planejamento de Entregas
+## :hourglass_flowing_sand: Planejamento de Aulas
       
 |Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
 | -------- |-------- |-------- |-------- |-------- | -------- |

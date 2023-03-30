@@ -45,21 +45,21 @@
       
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
-|Módulo|Unidades Curriculares |Carga horária total|Dias|Início| Término|
+|Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
 | -------- |-------- |-------- |-------- |-------- | -------- |
-|**-**|Ambientação| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**-**|Aula inaugural| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Fundamentos da tecnologia da informação e comunicação| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Introdutório**|Metodologias ágeis| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Fundamentos da qualidade e produtividade| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Introdutório**|Versionamento| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Saúde e segurança no trabalho| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Introdutório**|Lógica de programação| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Fundamentos da indústria 4.0| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Sustentabilidade nos processos industriais| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Específico 1**|Codificação para Front-End| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Específico 1**|Interação com API's| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Específico 1**|Testes de Front-End| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**-**|Ambientação|20|4|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**-**|Aula inaugural|3|1|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Fundamentos da tecnologia da informação e comunicação|20|5|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Introdutório**|Metodologias ágeis|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Fundamentos da qualidade e produtividade|8|2|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Introdutório**|Versionamento|16|4|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Saúde e segurança no trabalho|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Introdutório**|Lógica de programação|40|10|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Fundamentos da indústria 4.0|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Sustentabilidade nos processos industriais|8|2|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Específico 1**|Codificação para Front-End|140|35|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Específico 1**|Interação com API's|40|10|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Específico 1**|Testes de Front-End|40|10|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 <br>
 
 

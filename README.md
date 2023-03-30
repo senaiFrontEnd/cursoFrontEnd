@@ -47,7 +47,19 @@
       
 |Módulo|Unidades Curriculares |Carga horária total|Dias|Início| Término|
 | -------- |-------- |-------- |-------- |-------- | -------- |
-|**Renato Wessner**|Líder| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**-**|Ambientação| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**-**|Aula inaugural| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Fundamentos da tecnologia da informação e comunicação| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Introdutório**|Metodologias ágeis| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Fundamentos da qualidade e produtividade| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Introdutório**|Versionamento| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Saúde e segurança no trabalho| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Introdutório**|Lógica de programação| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Fundamentos da indústria 4.0| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Básico**|Sustentabilidade nos processos industriais| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Específico 1**|Codificação para Front-End| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Específico 1**|Interação com API's| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+|**Específico 1**|Testes de Front-End| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 <br>
 
 

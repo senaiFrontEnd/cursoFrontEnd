@@ -28,21 +28,20 @@
 ## :rocket: O Projeto
 
 * Qualificação pra pessoas interessadas em aprender Front-End.
-</p>
 <br>
 
 ## :dart: Proposta
 
 * Desenvolvimento e capacitação de alunos novos a pessoas em transição de carreira, com matérias e aprendizados balizados nas necessidades do mercado, e com foco prático para que as pessoas possam executar em qualquer entrevista o que foi apreendido durante o curso, para isso o curso conta com materiais de leitura e desenvolvimento prático de projetos.
 
-    <a href ="#pushpin-início">Voltar ao início</a>  
-
+<a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
 ## :bulb: Metodologia Utilizada
 
 * **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
 
+<a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
       
 ## :hourglass_flowing_sand: Planejamento de Aulas
@@ -63,8 +62,8 @@
 |**Específico 1**|Interação com API's|40|10|06/07/2023|19/07/2023|
 |**Específico 1**|Testes de Front-End|40|10|20/07/2023|02/08/2023|
 
-  </p>
-  <br>
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br>
 
 ## :calendar: Os Sprints
 
@@ -90,13 +89,14 @@
 
 ☑️ SPRINT 11 ([Link da Pasta](https://github.com/senaiFrontEnd/Testes-de-Front-End)): A fazer 
 
+<a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
 
 ## :camera_flash: As Versões Finais dos Projetos
 
 ☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui) :heavy_check_mark:
 
-
+<a href ="#pushpin-início">Voltar ao início</a>  
 <br> 
 
 ## :computer: Tecnologias Utilizadas
@@ -104,7 +104,7 @@
 <p align="center">
       <img src="/Imagens_Geral/tech.JPG" >      
 <p align="center">
-</p>
+
 <br>
 
 * **Banco de Dados:** SQL
@@ -115,9 +115,8 @@
 * **Planejamento:** Planner, Project Libre, PowerPlataform
 * **Comunicação:** Discord, Whatsapp, Teams
 
-<br>
-
-     
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br>     
       
 ## :bar_chart: Backlog do Projeto
 
@@ -126,8 +125,8 @@
 <p align="center">
       <img src="/Imagens_Geral/Backlog.jpg" >
 <p align="center">
-</p>
-      
+
+<a href ="#pushpin-início">Voltar ao início</a>  
 <br>  
  
 ## :mortar_board: Colaborador
@@ -135,6 +134,8 @@
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |
 |**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+
+<a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
 <h1 align="center"> <img src = "Imagens_Geral/Colocar a imagem aqui em formato png" height="90" /></h1>    

@@ -31,7 +31,7 @@
 
 ## :dart: Proposta
 
-* Criação de uma plataforma que desenvolva as crianças na leitura através de textos alinhados com os usados no Programa Internacional de Avaliação de Estudantes (Pisa) e o BNCC.**
+* Desenvolvimento e capacitação de alunos novos a pessoas em transição de carreira, com matérias e aprendizados balizados nas necessidades do mercado, e com foco prático para que as pessoas possam executar em qualquer entrevista o que foi apreendido durante o curso, para isso o curso conta com materiais de leitura e desenvolvimento prático de projetos.
 </p>
 <br>
 

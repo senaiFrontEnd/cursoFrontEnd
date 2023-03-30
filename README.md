@@ -62,7 +62,6 @@
 |**Específico 1**|Interação com API's|40|10|06/07/2023|19/07/2023|
 |**Específico 1**|Testes de Front-End|40|10|20/07/2023|02/08/2023|
 
-</p>
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 

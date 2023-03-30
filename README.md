@@ -66,25 +66,25 @@
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamento-da-tecnolgia-da-informacao-e-comunicao)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/senaiFrontEnd/metodologias-ageis)): A fazer :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/senaiFrontEnd/metodologias-ageis)): A fazer 
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-qualidade-e-produtividade)): A fazer :heavy_check_mark:
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-qualidade-e-produtividade)): A fazer 
 
-☑️ SPRINT 4 ([Link da Pasta](https://github.com/senaiFrontEnd/Versionamento)): A fazer :heavy_check_mark:
+☑️ SPRINT 4 ([Link da Pasta](https://github.com/senaiFrontEnd/Versionamento)): A fazer 
 
-☑️ SPRINT 5 ([Link da Pasta](https://github.com/senaiFrontEnd/Saude-e-seguranca-no-trabalho)): A fazer :heavy_check_mark:
+☑️ SPRINT 5 ([Link da Pasta](https://github.com/senaiFrontEnd/Saude-e-seguranca-no-trabalho)): A fazer 
 
-☑️ SPRINT 6 ([Link da Pasta](https://github.com/senaiFrontEnd/Logica-de-programacao)): A fazer :heavy_check_mark:
+☑️ SPRINT 6 ([Link da Pasta](https://github.com/senaiFrontEnd/Logica-de-programacao)): A fazer 
 
-☑️ SPRINT 7 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-industria-4.0)): A fazer :heavy_check_mark:
+☑️ SPRINT 7 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamentos-da-industria-4.0)): A fazer 
 
-☑️ SPRINT 8 ([Link da Pasta](https://github.com/senaiFrontEnd/Sustentabilidade-nos-processos-industriais)): A fazer :heavy_check_mark:
+☑️ SPRINT 8 ([Link da Pasta](https://github.com/senaiFrontEnd/Sustentabilidade-nos-processos-industriais)): A fazer 
 
-☑️ SPRINT 9 ([Link da Pasta](https://github.com/senaiFrontEnd/Codificacao-para-Front-End)): A fazer :heavy_check_mark:
+☑️ SPRINT 9 ([Link da Pasta](https://github.com/senaiFrontEnd/Codificacao-para-Front-End)): A fazer 
 
-☑️ SPRINT 10 ([Link da Pasta](https://github.com/senaiFrontEnd/Interacao-com-API-s)): A fazer :heavy_check_mark:
+☑️ SPRINT 10 ([Link da Pasta](https://github.com/senaiFrontEnd/Interacao-com-API-s)): A fazer 
 
-☑️ SPRINT 11 ([Link da Pasta](https://github.com/senaiFrontEnd/Testes-de-Front-End)): A fazer :heavy_check_mark:
+☑️ SPRINT 11 ([Link da Pasta](https://github.com/senaiFrontEnd/Testes-de-Front-End)): A fazer 
 
 <br> 
 

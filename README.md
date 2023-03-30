@@ -107,10 +107,7 @@
 
 <br>
 
-* **Banco de Dados:** SQL
-* **Back-end:** Java, Thunder Client, Node.js, Apache TomCat                   
 * **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
-* **Ferramentas:** Visual Studio Code, SpringToolSuite4, MySQL e Eclipse
 * **Design:** Illustrator, Photoshop, Corel Draw
 * **Planejamento:** Planner, Project Libre, PowerPlataform
 * **Comunicação:** Discord, Whatsapp, Teams
@@ -138,5 +135,5 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-<h1 align="center"> <img src = "Imagens_Geral/Colocar a imagem aqui em formato png" height="90" /></h1>    
+<h1 align="center"> <img src = "Imagens_Geral/senai-logo-2.png" height="90" /></h1>    
  

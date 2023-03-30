@@ -9,11 +9,11 @@
 <p align="center">
   <a href ="#rocket-o-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
+  <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#hourglass_flowing_sand-planejamento-de-aulas">Planejamento</a>  •
   <a href ="#calendar-os-sprints">Entregas</a>  •
   <a href ="#camera_flash-as-versões">Versões do site</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
-  <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
   <a href ="#mortar_board-colaboradores">Colaboradores</a>
 </p>
@@ -59,10 +59,6 @@
 |**Específico 1**|Interação com API's|40|10|06/07/2023|19/07/2023|
 |**Específico 1**|Testes de Front-End|40|10|20/07/2023|02/08/2023|
 
-
-- [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
-- [x] [SPRINT 2] - 23/07/2022 a 03/10/2022
-- [x] [SPRINT 3] - 04/10/2022 a 15/11/2022  
   </p>
   <br>
 

@@ -45,12 +45,10 @@
       
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
-* Primeira versão
-  
-
-
-
-* Versão revisada
+|Nome|Função|Linkedin|GitHub|Avatar|
+| -------- |-------- |-------- |-------- |-------- |
+|**Renato Wessner**|Líder| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
+<br>
 
 
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022

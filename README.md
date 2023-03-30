@@ -3,7 +3,7 @@
 ## :pushpin: Início
 
 <p align="center">
-      <img src="/Imagens_Geral/front-end-web-development-front-and-bac.png" width="200" height="200">
+      <img src="/Imagens_Geral/front-end-development-logos-for-example-html-5.png" width="200" height="200">
 <p align="center">
 
 <hr>

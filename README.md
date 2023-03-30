@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-  Projeto desenvolvido no ano de 2022 entre 16 de maio à 15 novembro pelos estudantes do Squad 56 da Recode Pro 2022.
+  Projeto curso de formação em Front-End.
 <h1 align="center">
 <br>
       

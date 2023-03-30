@@ -9,7 +9,6 @@
 <hr>
 
 <p align="center">
-  <a>Início</a> •
   <a href ="#rocket-o-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
@@ -35,7 +34,9 @@
 ## :dart: Proposta
 
 * Desenvolvimento e capacitação de alunos novos a pessoas em transição de carreira, com matérias e aprendizados balizados nas necessidades do mercado, e com foco prático para que as pessoas possam executar em qualquer entrevista o que foi apreendido durante o curso, para isso o curso conta com materiais de leitura e desenvolvimento prático de projetos.
-</p>
+
+    <a href ="#pushpin-início">Voltar ao início</a>  
+
 <br>
 
 ## :bulb: Metodologia Utilizada

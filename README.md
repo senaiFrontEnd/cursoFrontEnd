@@ -35,6 +35,12 @@
 </p>
 <br>
 
+## :bulb: Metodologia Utilizada
+
+* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
+
+<br> 
+
 
       
 ## :hourglass_flowing_sand: Planejamento de Entregas
@@ -81,11 +87,7 @@
 
 <br>
 
-## :bulb: Metodologia Utilizada
-
-* **Metodologia Ágil:** Framework [Scrum](https://www.desenvolvimentoagil.com.br/scrum/)
-
-<br>      
+     
       
 ## :bar_chart: Backlog do Projeto
 

@@ -12,7 +12,7 @@
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •
   <a href ="#hourglass_flowing_sand-planejamento-de-aulas">Planejamento</a>  •
   <a href ="#calendar-os-sprints">Entregas</a>  •
-  <a href ="#camera_flash-as-versões">Versões do site</a>  •
+  <a href ="#camera_flash-as-versões-finais-dos-projetos">Versões das entregas</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
   <a href ="#mortar_board-colaboradores">Colaboradores</a>
@@ -88,7 +88,7 @@
 
 <br> 
 
-## :camera_flash: As Versões
+## :camera_flash: As Versões Finais dos Projetos
 
 ☑️ 1 ENTREGA: [https://squad562.github.io/siteprimeiraentrega/](https://squad562.github.io/siteprimeiraentrega/) :heavy_check_mark:
 

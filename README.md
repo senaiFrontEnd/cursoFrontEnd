@@ -45,8 +45,8 @@
       
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
-|Nome|Função|Linkedin|GitHub|Avatar|
-| -------- |-------- |-------- |-------- |-------- |
+|Módulo|Unidades Curriculares |Carga horária total|Dias|Início| Término|
+| -------- |-------- |-------- |-------- |-------- | -------- |
 |**Renato Wessner**|Líder| [@LinkedIn](http://linkedin.com/in/renato-wessner)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
 <br>
 

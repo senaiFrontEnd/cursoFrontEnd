@@ -64,12 +64,28 @@
 
 ## :calendar: Os Sprints
 
-☑️ SPRINT 1 ([Link da Pasta]()): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/senaiFrontEnd/Fundamento-da-tecnolgia-da-informacao-e-comunicao)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 2 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_02)): Concluído :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/senaiFrontEnd/metodologias-ageis)): Concluído :heavy_check_mark:
 
-☑️ SPRINT 3 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_03)): Concluído :heavy_check_mark:
-      
+☑️ SPRINT 3 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 4 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 5 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 6 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 7 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 8 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 9 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 10 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
+☑️ SPRINT 11 ([Link da Pasta]()): Concluído :heavy_check_mark:
+
 <br> 
 
 ## :camera_flash: As Versões

@@ -64,7 +64,7 @@
 
 ## :calendar: Os Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta]()): Concluído :heavy_check_mark:
 
 ☑️ SPRINT 2 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_02)): Concluído :heavy_check_mark:
 

@@ -7,6 +7,7 @@
 <hr>
 
 <p align="center">
+  <a>Início</a> •
   <a href ="#rocket-o-projeto">Projeto</a>  •
   <a href ="#dart-proposta">Proposta</a>  •
   <a href ="#bulb-metodologia-utilizada">Metodologia</a>  •

@@ -25,12 +25,13 @@
       
 ## :rocket: O Projeto
 
-* Qualificação pra pessoas interessadas em aprender Front-End, desde alunos novos a pessoas com transição de carreira.
+* Qualificação pra pessoas interessadas em aprender Front-End.
 </p>
 <br>
 
 ## :dart: Proposta
-**Criação de uma plataforma que desenvolva as crianças na leitura através de textos alinhados com os usados no Programa Internacional de Avaliação de Estudantes (Pisa) e o BNCC.**
+
+*Criação de uma plataforma que desenvolva as crianças na leitura através de textos alinhados com os usados no Programa Internacional de Avaliação de Estudantes (Pisa) e o BNCC.**
 </p>
 <br>
 

@@ -47,20 +47,19 @@
       
 |Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
 | -------- |-------- |-------- |-------- |-------- | -------- |
-|**-**|Ambientação| 20|4|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**-**|Aula inaugural| 3|1|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Fundamentos da tecnologia da informação e comunicação|20|5|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Introdutório**|Metodologias ágeis|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Fundamentos da qualidade e produtividade|8|2|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Introdutório**|Versionamento|16|4|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Saúde e segurança no trabalho|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Introdutório**|Lógica de programação|40|10|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Fundamentos da indústria 4.0|12|3|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Básico**|Sustentabilidade nos processos industriais|8|2|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Específico 1**|Codificação para Front-End|140|35|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Específico 1**|Interação com API's|40|10|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-|**Específico 1**|Testes de Front-End|40|10|<img src = "/Imagens_Geral/renato.png" width="50" height="50"/>|
-<br>
+|**-**|Ambientação| 20|4|20/03/2023|24/03/2023|
+|**-**|Aula inaugural|3|1|27/03/202|27/03/202|
+|**Básico**|Fundamento da tecnolgia da informação e comunicação|20|5|28/03/2023|03/04/2023|
+|**Introdutório**|Metodologias ágeis|12|3|04/04/2023|06/04/2023|
+|**Básico**|Fundamentos da qualidade e produtividade|8|2|10/04/2023|11/04/2023|
+|**Introdutório**|Versionamento|16|4|12/04/2023|17/04/2023|
+|**Básico**|Saúde e segurança no trabalho|12|3|18/04/2023|20/04/2023|
+|**Introdutório**|Lógica de programação|40|10|24/04/2023|08/05/2023|
+|**Básico**|Fundamentos da indústria 4.0|12|3|09/05/2023|11/05/2023|
+|**Básico**|Sustentabilidade nos processos industriais|8|2|12/05/2023|15/05/2023|
+|**Específico 1**|Codificação para Front-End|140|35|16/05/2023|05/07/2023|
+|**Específico 1**|Interação com API's|40|10|06/07/2023|19/07/2023|
+|**Específico 1**|Testes de Front-End|40|10|20/07/2023|02/08/2023|
 
 
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022

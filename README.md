@@ -25,7 +25,7 @@
       
 ## :rocket: O Projeto
 
-* Qualificação pra pessoas interessadas em aprrender Front-End, desde alunos novos a pessoas com transição de carreira.
+* Qualificação pra pessoas interessadas em aprender Front-End, desde alunos novos a pessoas com transição de carreira.
 </p>
 <br>
 

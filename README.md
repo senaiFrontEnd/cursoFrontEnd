@@ -19,14 +19,13 @@
 </p>
 
 <h1 align="center">
-  Projeto curso de formação em Front-End.
+  Curso de formação em Front-End.
 <h1 align="center">
 <br>
       
 ## :rocket: O Projeto
 
-* A ideia para a plataforma surgiu a partir de um problema: a baixa proficiência em leitura (desafio 5). Uma das formas encontradas para intervir, e ajudar no desenvolvimento de crianças mais profecientes é melhorar a leitura através de textos focados em gêneros literários
-fáceis e atrativos.
+* Qualificação pra pessoas interessadas em aprrender Front-End, desde alunos novos a pessoas com transição de carreira.
 </p>
 <br>
 

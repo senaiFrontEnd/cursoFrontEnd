@@ -101,10 +101,11 @@
 
 ## :computer: Tecnologias Utilizadas
 
-* **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
-* **Design:** Illustrator, Photoshop, Corel Draw
-* **Planejamento:** Planner, Project Libre, PowerPlataform
-* **Comunicação:** Discord, Whatsapp, Teams
+* **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript;   
+* **Versionamento:** GIT e GitHub desktop;           
+* **Design:** Illustrator, Photoshop, Corel Draw;
+* **Planejamento:** Planner, Project Libre, PowerPlataform;
+* **Comunicação:** Discord, Whatsapp, Teams.
 
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>     

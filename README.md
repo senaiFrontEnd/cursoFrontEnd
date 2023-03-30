@@ -15,7 +15,7 @@
   <a href ="#camera_flash-as-versões-finais-dos-projetos">Versões das entregas</a>  •
   <a href ="#computer-tecnologias-utilizadas">Tecnologias</a>  •
   <a href ="#bar_chart-backlog-do-projeto">Backlog</a>  •
-  <a href ="#mortar_board-colaboradores">Colaboradores</a>
+  <a href ="#mortar_board-colaborador(es)">Colaboradores</a>
 </p>
 
 <h1 align="center">
@@ -126,7 +126,7 @@
       
 <br>  
  
-## :mortar_board: Colaboradores 
+## :mortar_board: Colaborador(es) 
 
 |Nome|Função|Linkedin|GitHub|Avatar|
 | -------- |-------- |-------- |-------- |-------- |

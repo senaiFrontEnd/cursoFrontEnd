@@ -101,12 +101,6 @@
 
 ## :computer: Tecnologias Utilizadas
 
-<p align="center">
-      <img src="/Imagens_Geral/tech.JPG" >      
-<p align="center">
-
-<br>
-
 * **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
 * **Design:** Illustrator, Photoshop, Corel Draw
 * **Planejamento:** Planner, Project Libre, PowerPlataform
